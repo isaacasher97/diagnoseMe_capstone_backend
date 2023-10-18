@@ -1,21 +1,22 @@
 # 🩺 Diagnose Me 🩺
 
 - **Contributors:** Isaac Asher
-- [**Backend Source Code**]()
-- [**Frontend Source Code**]()
-- [**Deployed Backend Site**]()
-- [**Deployed Frontend Site**]()
-- [**Jira Board**]()
+- [**Backend Source Code**](https://github.com/isaacasher97/diagnoseMe_capstone_backend)
+- [**Frontend Source Code**](https://github.com/isaacasher97/diagnoseMe_capstone_frontend)
+- [**Deployed Backend Site**](https://diagnose-me-backend.onrender.com/diagnosis/)
+- [**Deployed Frontend Site**](https://diagnose-me-capstone-frontend.vercel.app/)
+- [**Jira Board**](https://isaacasher.atlassian.net/jira/software/projects/CAP/boards/3)
 
 ## 🧑‍💻 Technologies 🧑‍💻
 
-- Vue
-- Python
-- Django
-- Node
-- postgreSQL
-- HTML
-- Sass
+<img src="https://i.imgur.com/BP04moS.jpg" width="50" height="50">
+<img src="https://i.imgur.com/x10Mqt8.png" width="50" height="50">
+<img src="https://i.imgur.com/CN25ZoC.png" width="50" height="50">
+<img src="https://i.imgur.com/xmboanh.png" width="50" height="50"><br/>
+<img src="https://i.imgur.com/FJ5g1Ij.png" width="50" height="50">
+<img src="https://i.imgur.com/zIdAEMI.png" width="50" height="50" />
+<img src="https://i.imgur.com/Sn9KktH.png" width="50" height="50" />
+<img src="https://i.imgur.com/P6X3sYc.png" width="50" height="50" />
 
 ## 🗒️ Description 🗒️
 
@@ -72,3 +73,19 @@ erDiagram
         str description
     }
 ```
+
+## Project setup
+```
+npm install
+npm run serve
+```
+## Future Enhacements
+
+- Make the book content more 3d and animated
+- User Auth for individual accounts
+- Public Feed Page with like and share and comment ability 
+- add profile pages for users
+-Meet with zoc doc to apply their api
+- implement zocdoc search for specialist available
+-create seperate login for patients and doctors alike
+- create dr profiles with rating system for doctor profiles
