@@ -11,12 +11,9 @@
 
 <img src="https://i.imgur.com/BP04moS.jpg" width="50" height="50">
 <img src="https://i.imgur.com/x10Mqt8.png" width="50" height="50">
-<img src="https://i.imgur.com/CN25ZoC.png" width="50" height="50">
 <img src="https://i.imgur.com/xmboanh.png" width="50" height="50"><br/>
 <img src="https://i.imgur.com/FJ5g1Ij.png" width="50" height="50">
-<img src="https://i.imgur.com/zIdAEMI.png" width="50" height="50" />
-<img src="https://i.imgur.com/Sn9KktH.png" width="50" height="50" />
-<img src="https://i.imgur.com/P6X3sYc.png" width="50" height="50" />
+
 
 ## 🗒️ Description 🗒️
 
